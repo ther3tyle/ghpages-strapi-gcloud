@@ -107,6 +107,7 @@ coverage
 # Strapi
 ############################
 
+app.yaml
 .env
 license.txt
 exports
